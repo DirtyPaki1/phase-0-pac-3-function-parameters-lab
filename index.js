@@ -3,4 +3,5 @@ function introductionWithLanguageOptional(name,language='JavaScript'){
 
 }
 
-introductionWithLanguageOptional('Mark','JavaScript')
+
+introductionWithLanguageOptional('Mark')
